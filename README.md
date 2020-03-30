@@ -101,12 +101,12 @@ Juno is an online dating app that displays user compatibility based on their sun
 * Profile Screen
 <img src="https://pastepic.xyz/images/2020/03/30/Screen-Shot-2020-03-30-at-7.24.43-AMc6be2a34014d4a06.png"  width=300 height=500>
 
+* Settings Screen
+<img src="https://pastepic.xyz/images/2020/03/30/Screen-Shot-2020-03-30-at-7.25.48-AMb2baa34cfaf30f52.png"  width=300 height=500>
+
 * Messaging Screen
 
 <img src="https://pastepic.xyz/images/2020/03/30/Screen-Shot-2020-03-30-at-7.25.14-AMbd02372491b2f5c7.png"  width=300 height=500><img src="https://pastepic.xyz/images/2020/03/30/Screen-Shot-2020-03-30-at-7.25.29-AMa0c80683a3e8ba64.png"  width=300 height=500>
-
-* Settings Screen
-<img src="https://pastepic.xyz/images/2020/03/30/Screen-Shot-2020-03-30-at-7.25.48-AMb2baa34cfaf30f52.png"  width=300 height=500>
 
 ## Schema 
 [This section will be completed in Unit 9]
