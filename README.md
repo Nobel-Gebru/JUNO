@@ -109,9 +109,33 @@ Juno is an online dating app that displays user compatibility based on their sun
 <img src="https://pastepic.xyz/images/2020/03/30/Screen-Shot-2020-03-30-at-7.25.14-AMbd02372491b2f5c7.png"  width=300 height=500><img src="https://pastepic.xyz/images/2020/03/30/Screen-Shot-2020-03-30-at-7.25.29-AMa0c80683a3e8ba64.png"  width=300 height=500>
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+#### User
+
+| Property      | Type     | Description                                              |
+|---------------|----------|----------------------------------------------------------|
+| userId        | String   | unique id for users                                      |
+| fname         | String   | the user's first name                                    |
+| lname         | String   | the user's last name                                     |
+| username      | String   | the unique name the user logs in with                    |
+| password      | String   | the string the user will use to verify their identity    |
+| location      | String   | where the user is located                                |
+| dob           | DateTime | the user's date of birth                                 |
+| birthLocation | String   | where the user was born                                  |
+| profilePhoto  | File     | the image that the user chooses for their profile        |
+| likes         | Array    | an array of user profiles that the user has liked        |
+| matches       | Array    | an array of user profiles that the user has matched with |
+| jobTitle      | String   | the user's occupation                                    |
+| companySchool | String   | the user's company/school                                |
+| sign          | String   | the user's star sign                                     |
+
+
+#### Compatibility
+
+| Property | Type  | Description                                                 |
+|----------|-------|-------------------------------------------------------------|
+| sign     | Array | map used to store the compatibility value between each sign |
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
