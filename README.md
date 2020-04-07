@@ -89,7 +89,7 @@ Juno is an online dating app that displays user compatibility based on their sun
 
 ## Wireframes
 * Login Screen
-<img src="https://imgur.com/mXLjbUj" width=300 height=500>
+<img src="[Imgur](https://imgur.com/mXLjbUj)" width=300 height=500>
 
 * Registraton Screen 
 
