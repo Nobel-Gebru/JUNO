@@ -93,20 +93,20 @@ Juno is an online dating app that displays user compatibility based on their sun
 
 * Registraton Screen 
 
-<img src="https://imgur.com/3rZqkaK"  width=300 height=500><img src="https://imgur.com/ncQTXBO"  width=300 height=500>
+<img src="https://i.imgur.com/3rZqkaK.png"  width=300 height=500><img src="https://i.imgur.com/ncQTXBO.png"  width=300 height=500>
 
 * Stream Screen
-<img src="https://imgur.com/t0nEcTh"  width=300 height=500>
+<img src="https://imgur.com/t0nEcTh.png"  width=300 height=500>
 
 * Profile Screen
-<img src="https://imgur.com/Vldn56x"  width=300 height=500>
+<img src="https://i.imgur.com/Vldn56x.png"  width=300 height=500>
 
 * Settings Screen
-<img src="https://imgur.com/7hlLfRE"  width=300 height=500>
+<img src="https://imgur.com/7hlLfRE.png"  width=300 height=500>
 
 * Messaging Screen
 
-<img src="https://imgur.com/RRYmfg6"  width=300 height=500><img src="https://imgur.com/zmFsVjU"  width=300 height=500>
+<img src="https://imgur.com/RRYmfg6.png"  width=300 height=500><img src="https://imgur.com/zmFsVjU.png"  width=300 height=500>
 
 ## Schema 
 ### Models
